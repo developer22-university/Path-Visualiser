@@ -17,5 +17,5 @@ python text.py
 ## Source(purple) ,Target(green) and Obstacle(red) Example
 ![pic1](https://github.com/developer22-university/Path-Visualiser/blob/main/img/Screenshot%20(2).png)
 ##  A-STAR algorithm path finding using  blue Stream
-##  Final path determination between the source and Target using black Stream
+##  Final path determination using black Stream
 ![pic3](https://github.com/developer22-university/Path-Visualiser/blob/main/img/Screenshot%20(3).png)
