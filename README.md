@@ -8,11 +8,7 @@ It uses the heuristic A-Star algorithm to determine paths between 2 nodes in a T
 Installing Pygame.
 
 Try any one of the following two commands:
-
 pip install pygame
-
-python -m pip install pygame
-
 After installing Pygame, simply run the command to run the Project:
 python text.py
 
