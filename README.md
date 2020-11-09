@@ -14,6 +14,6 @@ pip install pygame
 python -m pip install pygame
 
 After installing Pygame, simply run the command to run the Project:
-python main.py
+python text.py
 
  ### Technology used:Pygame,VS-Code
