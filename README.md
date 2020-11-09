@@ -1,8 +1,5 @@
 # Path-Visualiser
-2d-GRID BASED PATH VISUALISER
-
-
-[A* ALGORITHM EXPLANATION](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+2d-GRID BASED PATH VISUALISER    [A* ALGORITHM EXPLANATION](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 
 It is a 2-D maze generation and optimal path-finder that has been developed using PyGame (a Python set of modules).
