@@ -18,8 +18,8 @@ python text.py
 
  ### Technology used:Pygame,VS-Code
 
-## Source ,Target AND OBSTACLE EXAMPLE
+## Source ,Target and Obstacle Example
 ![pic1](https://github.com/developer22-university/Path-Visualiser/blob/main/img/Screenshot%20(2).png)
-##  A-STAR ALGORITHM PATH FINDING using Blue Stream
+##  A-STAR algorithm path finding using Blue Stream
 ##  Final path determination between the source and Target using Black Stream
 ![pic3](https://github.com/developer22-university/Path-Visualiser/blob/main/img/Screenshot%20(3).png)
