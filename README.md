@@ -17,3 +17,9 @@ After installing Pygame, simply run the command to run the Project:
 python text.py
 
  ### Technology used:Pygame,VS-Code
+
+## Source ,Target AND OBSTACLE EXAMPLE
+![pic1](https://github.com/developer22-university/Path-Visualiser/blob/main/img/Screenshot%20(2).png)
+##  A-STAR ALGORITHM PATH FINDING VISUALISATION USING BLUE STREAM
+##  Final path determination between the source and Target 
+![pic3](https://github.com/developer22-university/Path-Visualiser/blob/main/img/Screenshot%20(3).png)
